@@ -1,0 +1,2 @@
+# superstatistics
+Combinatorial Superstatistics
