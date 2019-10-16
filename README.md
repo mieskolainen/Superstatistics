@@ -1,4 +1,4 @@
-# superstatistics
+# Superstatistics
 Code to reproduce "Combinatorial Superstatistics for Soft QCD"
 <br>
 https://arxiv.org/abs/1910.06279
