@@ -1,5 +1,5 @@
 # Superstatistics
-Code to reproduce "Combinatorial Superstatistics for Soft QCD"
+Code to reproduce "Combinatorial Superstatistics for Soft QCD" ++ more
 <br>
 https://arxiv.org/abs/1910.06279
 
