@@ -11,7 +11,7 @@ https://arxiv.org/abs/1910.06279
 
 If you find this work useful, you may cite the paper:
 ```
-@misc{mieskolainen2019combinatorial,
+@article{mieskolainen2019combinatorial,
     title={Combinatorial Superstatistics for Soft QCD},
     author={Mikael Mieskolainen},
     year={2019},
