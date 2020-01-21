@@ -7,5 +7,17 @@ https://arxiv.org/abs/1910.06279
 
 <img width="500px" src="figs/maxoutentN7.png">
 
+## Citation
 
-mikael.mieskolainen@cern.ch, 2019
+If you find this work useful, you may cite the paper:
+```
+@misc{mieskolainen2019combinatorial,
+    title={Combinatorial Superstatistics for Soft QCD},
+    author={Mikael Mieskolainen},
+    year={2019},
+    journal={arXiv:1910.06279},
+    eprint={1910.06279},
+    archivePrefix={arXiv},
+    primaryClass={hep-ph}
+}
+```
